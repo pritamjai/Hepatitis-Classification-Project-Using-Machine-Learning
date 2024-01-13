@@ -1,2 +1,4 @@
-# Hepatitis-Classification-Project-Using-Machine-Learning
-This is an internship project done by my group. In this project we have came across different types of diseases in hepatitis and we predicted that the patient will die or not.
+# Drive Link - https://drive.google.com/file/d/1mhND1bEN-3GkRckpARhXJ8ADPHG4CAho/view?usp=sharing
+UNP-Classification-Project
+
+Analyzing a hepatitis dataset to predict whether individuals lived or died based on various health parameters is a critical task in healthcare. Factors such as age, gender, serum bilirubin levels,prothrombin time and many more are instrumental in assessing the severity of hepatitis and the likelihood of survival. Machine learning models can be trained on this dataset to identify patterns and relationships between these variables and the ultimate outcome of the patients. By leveraging predictive analytics, healthcare professionals can gain valuable insights into the prognosis of individuals affected by hepatitis. Such models contribute significantly to the field of medical research and personalized medicine, fostering a more targeted and effective approach to managing hepatitis cases.
